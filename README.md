@@ -120,7 +120,7 @@ app/src/main/java/com/malak/vaultprefs14/
 │
 └── model/
     └── LearnerRecord.java
-
+```
 ## Layouts:
 
 ### `activity_main.xml`
