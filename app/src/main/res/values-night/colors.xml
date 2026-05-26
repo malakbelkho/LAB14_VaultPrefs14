@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ink_navy">#050816</color>
+    <color name="deep_indigo">#0B1028</color>
+    <color name="violet_main">#8B5CF6</color>
+    <color name="cyan_glow">#22D3EE</color>
+    <color name="mint_soft">#34D399</color>
+    <color name="pink_accent">#FB7185</color>
+    <color name="amber_soft">#FBBF24</color>
+
+    <color name="screen_top">#050816</color>
+    <color name="screen_mid">#0F172A</color>
+    <color name="screen_bottom">#1E1B2E</color>
+
+    <color name="panel_white">#111827</color>
+    <color name="panel_stroke">#334155</color>
+    <color name="input_bg">#1E293B</color>
+    <color name="result_bg">#020617</color>
+
+    <color name="text_dark">#F8FAFC</color>
+    <color name="text_muted">#CBD5E1</color>
+    <color name="white">#FFFFFF</color>
+</resources>
